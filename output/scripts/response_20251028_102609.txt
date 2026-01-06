@@ -1,0 +1,74 @@
+Generated: 20251028_102609
+
+============================================================
+
+PROMPT:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 MISSION DE CRÉATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎭 RÔLE: expert en contenu viral TikTok/Reel
+
+📋 TÂCHE:
+Crée un script COURT (30-40 sec) pour un Reel. Captive en 3 secondes, inspire, engage.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎨 CONTEXTE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 THÈME: Apprentissage continu
+
+👥 PUBLIC/CONTEXTE:
+Public: 18-35 ans. Scroll rapide, attention limitée.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📐 STRUCTURE REQUISE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HOOK (10 mots): Phrase choc
+CORPS (80 mots): 3 points max, phrases courtes
+CONCLUSION (20 mots): Message inspirant
+
+🎣 TYPE DE HOOK: Question choc OU Affirmation contre-intuitive OU Statistique surprenante
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨ STYLE & TON
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Phrases ultra-courtes. Ton ami. 2-3 emojis. Conversationnel.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚠️ CONTRAINTES STRICTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+120-150 mots MAX. 30-40 secondes.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚨 RÈGLES DE TEXTE OBLIGATOIRES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- ZÉRO markdown (**bold**, *italic*, # titres)
+- Ajoute 2-3 emojis stratégiques pour ponctuer l'émotion 😊💡✨
+- Phrases courtes et percutantes (max 15 mots/phrase)
+- Langage conversationnel et authentique
+- TOUT EN FRANÇAIS - 100% NATUREL
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💡 EXEMPLES DE RÉFÉRENCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EXEMPLE:
+"Pourquoi tu n'arrives jamais à tenir tes résolutions? La science a une réponse. Ton cerveau déteste le changement. C'est biologique. Quand tu fixes un gros objectif, il panique. La solution? Pense micro. Un petit geste par jour. Juste un. Ton cerveau l'accepte sans résistance. Commence petit aujourd'hui. Un pas suffit. Le reste suivra naturellement."
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📤 FORMAT DE SORTIE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Écris directement le script complet en texte fluide. Pas de 'SCRIPT:', pas de sections.
+
+
+============================================================
+
+RESPONSE:
+Tu penses que t'as fini d'apprendre à 25 ans? 🤯 Grave erreur! Le monde change trop vite. Ce qui marche aujourd'hui sera obsolète demain. Alors, keep learning! 💡Développe une nouvelle compétence chaque année. Lis des bouquins, écoute des podcasts. Networking, c'est l'avenir. Connecte-toi avec des gens différents. Explore des sujets hors de ta zone de confort. Apprendre, c'est grandir. Grandir, c'est vivre pleinement. ✨ N'arrête jamais d'apprendre. Ton futur te remerciera.

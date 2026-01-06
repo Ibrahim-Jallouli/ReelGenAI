@@ -1,0 +1,68 @@
+# AI Reel Generator Configuration
+# Simplified version - No news scraping, just AI-generated content
+# 
+# ⚠️ COPY THIS FILE TO settings.yaml AND FILL IN YOUR API KEYS
+# cp settings.yaml.example settings.yaml
+
+# AI Settings (Gemini for script generation)
+ai:
+  provider: "gemini"  # Using Google Gemini
+  model: "gemini-2.5-flash"
+  temperature: 0.7
+  max_tokens: 1000
+
+# API Keys
+api_keys:
+  gemini: "YOUR_GEMINI_API_KEY"  # Get from https://makersuite.google.com/app/apikey
+  pexels: "YOUR_PEXELS_API_KEY"  # Get from https://www.pexels.com/api/
+  pixabay: "YOUR_PIXABAY_API_KEY"  # Get from https://pixabay.com/api/docs/
+  elevenlabs: "YOUR_ELEVENLABS_API_KEY"  # For better voice-over (optional)
+
+# Google Cloud TTS Settings
+google_cloud:
+  credentials_path: "config/google-credentials.json"  # Path to your Google Cloud service account JSON
+  # OU set GOOGLE_APPLICATION_CREDENTIALS dans les variables d'environnement
+
+# Media Collection Settings
+images:
+  provider: "pixabay"  # pixabay | pexels | wikimedia
+  count: 5  # Number of background images/videos
+  orientation: "vertical"  # 9:16 format for Reels
+  quality: "large2x"
+  min_width: 1080
+  min_height: 1920
+  fallback_to_generic: true
+
+
+# Video Generation Settings
+video:
+  format: "9:16"  # Vertical format for TikTok/Instagram Reels
+  width: 1080
+  height: 1920
+  fps: 30
+  duration: 30  # Default duration in seconds
+  transition_duration: 1.0
+  
+# Voice-Over Settings (Text-to-Speech)
+voice:
+  enabled: true
+  provider: "gtts"  # Google Text-to-Speech (free) | elevenlabs (premium)
+  language: "fr"  # fr | en | es | etc.
+  speed: 1.0
+  
+# Subtitles Settings
+subtitles:
+  enabled: true
+  font_size: 60
+  font_color: "white"
+  background_color: "black"
+  position: "center"
+  style: "bold"  # bold | outline | shadow
+  animation: true  # Word-by-word animation
+
+
+# Output Settings
+output:
+  video_dir: "output/videos"
+  temp_dir: "output/temp"
+  file_format: "mp4"

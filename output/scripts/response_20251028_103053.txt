@@ -1,0 +1,74 @@
+Generated: 20251028_103053
+
+============================================================
+
+PROMPT:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 MISSION DE CRÉATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎭 RÔLE: humoriste créatif spécialisé humour court
+
+📋 TÂCHE:
+Crée une BLAGUE COURTE (20-30 sec) drôle et relatable.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎨 CONTEXTE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 THÈME: Procrastination
+
+👥 PUBLIC/CONTEXTE:
+Public jeunes adultes. Humour intelligent, observation, autodérision, absurde.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📐 STRUCTURE REQUISE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SETUP (10 sec): Établis situation
+BUILD-UP (10 sec): Détails amusants
+PUNCHLINE (10 sec): Chute inattendue
+
+🎣 TYPE DE HOOK: Setup intrigant OU Question amusante OU Constat absurde
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨ STYLE & TON
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Humour d'observation. Situations relatable. Timing parfait. 
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚠️ CONTRAINTES STRICTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+60-100 mots MAX. 20-30 secondes. Bon goût.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚨 RÈGLES DE TEXTE OBLIGATOIRES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+- ZÉRO markdown (**bold**, *italic*, # titres)
+- Ajoute 2-3 emojis stratégiques pour ponctuer l'émotion 😊💡✨
+- Phrases courtes et percutantes (max 15 mots/phrase)
+- Langage conversationnel et authentique
+- TOUT EN FRANÇAIS - 100% NATUREL
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💡 EXEMPLES DE RÉFÉRENCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+EXEMPLE:
+"Mon cerveau à 3h du matin: Tu te souviens de ce truc gênant que tu as fait en 2012? Parlons-en pendant 4 heures. Mon cerveau à 9h du matin quand je dois travailler: Je crois qu'on devrait dormir encore. 😴"
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📤 FORMAT DE SORTIE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Écris directement la blague complète en texte fluide. Pas de 'SCRIPT:', pas de sections.
+
+
+============================================================
+
+RESPONSE:
+J'adore les to-do lists. Vraiment. Tellement que je passe des heures à en faire… 📝 C'est hyper satisfaisant de choisir la police, les couleurs, l'ordre des tâches… Le plus drôle ? C'est que les tâches sur la liste, elles, ne sont JAMAIS faites. C'est ça, ma définition de "productivité". 😂 Finalement, c'est une œuvre d'art, ma to-do list. Et l'art, ça se contemple, ça ne se fait pas. ✨
