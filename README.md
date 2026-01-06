@@ -129,3 +129,5 @@ MIT License
 ---
 
 **🧪 AI Experiment** - Project built primarily through AI prompts to explore AI-assisted development possibilities.
+
+<img width="1209" height="482" alt="Screenshot 2026-01-06 174519" src="https://github.com/user-attachments/assets/311bf966-441b-4c11-b354-8380f9135ded" />
