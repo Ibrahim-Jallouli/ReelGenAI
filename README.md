@@ -1,4 +1,4 @@
-# 🎬 AI Reel Script Generator
+# 🎬 AI Reel Generator
 
 > **⚠️ POC (Proof of Concept)** - This project is an experiment to test AI-assisted development. The goal was to build a functional project while writing as little code as possible, mainly through AI prompts.
 
